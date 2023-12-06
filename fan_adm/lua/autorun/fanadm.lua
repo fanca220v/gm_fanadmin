@@ -1,6 +1,6 @@
 fadm                = fadm or {}; adm = fadm; admin = fadm
 fadm.version        = 'unreleased'
-fadm.version_date   = '03.12.2023'--'01.05.2022' / start - '02.12.2023' - full recode
+fadm.version_date   = '06.12.2023'--'01.05.2022' / start - '02.12.2023' - full recode
 
 function fadm:print(...)
     tag=tag or "[ADMIN]"
