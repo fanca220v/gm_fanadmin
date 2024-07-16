@@ -20,7 +20,7 @@ fadm.util:OnInitilized(function(self)
 
     self:print("\n\n\n".. [[
                FAN ADMIN
-      developer:@fanca01 (vk,steam)
+       developer:@fanca01 (steam)
         ########################
         ########################
         ######## ####  ###  ####
